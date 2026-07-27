@@ -1,0 +1,7 @@
+print("=====STUDENT INFORMATION=====")
+print("Full Name:Precious Heart R. Geronimo")
+print("Age:20")
+print("Course:BSIT")
+print("Section:1BSIT-S9")
+print("Adress:Purok2, Carmen,Zaragoza,Nueva Ecija,Philippines,3110")
+print("Favorite Hobby: Mag Date)
