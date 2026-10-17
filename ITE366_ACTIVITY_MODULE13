@@ -1,0 +1,6 @@
+allowance = 200
+food = 80
+transpo = 30
+
+total = food + transpo + snacks 
+print(total expenses:, total)
